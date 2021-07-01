@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gmrtins
+- 👋 Hi, I’m Gonçalo
 - 🌱 I’m currently learning Swift
 - 📫 gmrtins@aol.co.uk
 
